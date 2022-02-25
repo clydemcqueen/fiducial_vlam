@@ -130,6 +130,7 @@ set(VMAP_NODE_SOURCES
 
 set(VMAP_NODE_DEPS
   class_loader
+  cv_bridge
   fiducial_vlam_msgs
   geometry_msgs
   OpenCV
